@@ -1,0 +1,128 @@
+@media only screen and (max-width: 327px){
+    .conteiner{
+        grid-template-columns: 1fr;
+        grid-template-rows: 1.5fr 1fr 1fr 1.2fr 1.5fr;
+        grid-template-areas:
+        "box1"
+        "box2"
+        "box3"
+        "box4"
+        "box5";
+
+    display: block;
+    visibility: hidden;
+    }
+}
+.boxin1{
+   height: 444px;
+   background-image: url(image/smol“.jpg);
+}
+img{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.name{
+    color: white;
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+.name-box{
+    margin-left: 70px;
+    margin-top: -35px;
+    
+}
+.job{
+    color: rgba(207, 207, 207, 1);
+    font-size: 11px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+text
+{
+    width: 283px;
+    height: 120px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgba(255, 255, 255, 1);
+    margin-left: 28px;
+    margin-top: 20px;
+    line-height: 24px;
+
+}
+text1  {
+    width: 260px;
+    height: 180px;
+    font-size: 12px;
+    margin-left: 28px;
+    margin-top: 32px;
+    color: rgba(207, 207, 207, 1);
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    line-height: 18px;
+}  
+.box1{
+    height: 240px;
+    background: rgba(72, 85, 106, 1);
+    margin-top: 15px;
+}
+.text2{
+    width: 260px;
+    height: 180px;
+    font-size: 12px;
+    margin-left: 28px;
+    margin-top: -55px;
+    color: rgba(207, 207, 207, 1);
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    line-height: 18px;
+}
+.box2{
+    height: 222px;
+    color: rgba(72, 85, 106, 1);
+    background: rgba(255, 255, 255, 1);
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif2;
+    margin-top: 15px;
+} 
+.name-box{
+    margin-left: 70px;
+    margin-top: -35px;
+    
+}
+.job1{
+    color: rgba(72, 85, 106, 1);
+    font-size: 11px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+.text3
+{
+    width: 283px;
+    height: 180px;
+    font-size: 20px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    color:rgb(34, 42, 54);
+    margin-left: 28px;
+    margin-top: 10px;
+    line-height: 24px;
+
+}
+.text4  {
+    width: 260px;
+    height: 180px;
+    font-size: 12px;
+    margin-left: 28px;
+    color: rgba(72, 85, 106, 1);
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    line-height: 18px;
+    margin-top: -90px;
+    
+}
+.box4{
+    height: 410px;
+    background: rgba(25, 32, 45, 1);
+    margin-top: -90px;
+   
+}
+.box5{
+    height: 468px;
+    background: rgba(255, 255, 255, 1);
+ margin-top: 15px;
+    
+}
